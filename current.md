@@ -14,3 +14,13 @@ ee           argue
             constant
 
             pear
+trip
+    editor           er 
+
+    meaning
+           this
+               gulf
+
+               issue
+                    what
+                        who
